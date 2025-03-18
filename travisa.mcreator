@@ -9,6 +9,16 @@
       "metadata": {
         "files": []
       }
+    },
+    {
+      "name": "Y",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "y",
+      "metadata": {
+        "files": []
+      }
     }
   ],
   "variable_elements": [],
@@ -17,7 +27,8 @@
   "tab_element_order": {},
   "language_map": {
     "en_us": {
-      "item_group.travisa.travisa_inc": "Travisa INC"
+      "item_group.travisa.travisa_inc": "Travisa INC",
+      "item_group.travisa.y": "Travisa INC"
     }
   },
   "foldersRoot": {
