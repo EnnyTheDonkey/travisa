@@ -1,0 +1,44 @@
+{
+  "mod_elements": [
+    {
+      "name": "TravisaINC",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "travisa_inc",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item_group.travisa.travisa_inc": "Travisa INC"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "travisa",
+    "modName": "Travisa .INC Mod",
+    "version": "1.0.0",
+    "author": "PapaEnny, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.tim"
+  },
+  "mcreatorVersion": 202400452410
+}
